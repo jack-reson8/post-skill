@@ -26,8 +26,19 @@ Most AI-made post images fail the same way: gradient cards, emoji lists, a "desi
 | 7 · Hand-off | Sheet + 2–3 title options. Publishing stays with you |
 
 ## Install
+
+**As a Claude Code plugin (recommended)**
+
 ```bash
-git clone https://github.com/jack-reson8/post-skill ~/.claude/skills/post
+claude plugin marketplace add jack-reson8/post-skill
+claude plugin install post@post-skill
+```
+
+**As a plain skill**
+
+```bash
+git clone https://github.com/jack-reson8/post-skill
+cp -R post-skill/plugins/post/skills/post ~/.claude/skills/
 ```
 Needs Google Chrome (headless rendering) and Python 3 with Pillow for contact sheets.
 

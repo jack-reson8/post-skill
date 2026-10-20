@@ -6,7 +6,14 @@
 
 流程：brief（目标、系列、真实事实清单）→ 参考（平台高赞封面网格 + 好品味 App 的 App Store 截图组）→ 分镜表（每张：标题、证据、浮出卡片、梗、GTM 作用）→ 文案（先说人话 再加 1–3 个梗）→ 制作（真实手机截图、像素级 App 界面模拟、非表格图表、App Store 海报模板）→ 缩略图审查 → 交付（发布永远由你决定）。
 
-安装：
+安装（Claude Code 插件，推荐）：
 ```bash
-git clone https://github.com/jack-reson8/post-skill ~/.claude/skills/post
+claude plugin marketplace add jack-reson8/post-skill
+claude plugin install post@post-skill
+```
+
+或者当普通 skill 用：
+```bash
+git clone https://github.com/jack-reson8/post-skill
+cp -R post-skill/plugins/post/skills/post ~/.claude/skills/
 ```

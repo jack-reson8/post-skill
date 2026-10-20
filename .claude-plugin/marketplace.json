@@ -1,0 +1,12 @@
+{
+  "name": "post-skill",
+  "description": "Post: Xiaohongshu / X share-image sets that look native and sell.",
+  "owner": { "name": "jack-reson8" },
+  "plugins": [
+    {
+      "name": "post",
+      "source": "./plugins/post",
+      "description": "Share-image sets for Xiaohongshu and X: App Store poster layout, real screenshots, faithful app-UI mocks, charts that aren't tables, a series/IP layer for go-to-market, fluent copy."
+    }
+  ]
+}
