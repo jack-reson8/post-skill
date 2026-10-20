@@ -1,0 +1,40 @@
+# Post · share images that look native and sell
+
+**Give Claude today's facts. Get a Xiaohongshu / X image set that looks like real app screens, reads like a person with jokes, and pushes your product and your series.**
+
+<table><tr>
+<td><img src="docs/frame-1.jpg" width="170"></td>
+<td><img src="docs/frame-2.jpg" width="170"></td>
+<td><img src="docs/frame-3.jpg" width="170"></td>
+<td><img src="docs/frame-4.jpg" width="170"></td>
+<td><img src="docs/frame-5.jpg" width="170"></td>
+</tr></table>
+<sub>Day 1 of a building-in-public series ("make Claude earn back its own $200 subscription"), made with this skill.</sub>
+
+[中文说明](README.zh-CN.md)
+
+Most AI-made post images fail the same way: gradient cards, emoji lists, a "designed" scene that screams template. This skill came out of 7 rounds of real rejections ("ugly", "looks AI-made", "doesn't look like Claude", "too serious") until the set was accepted. The method that fixed it is what it encodes:
+
+| Step | What Claude does |
+|---|---|
+| 1 · Brief | `brief.md`: the post's GTM job, series identity, and a list of true facts with sources — nothing else may appear in an image |
+| 2 · References | Grids the platform's top covers by likes, studies App Store screenshot sets of tasteful apps, writes 3 takeaways (gate) |
+| 3 · Storyboard | One row per frame: headline, evidence, floating card, joke, GTM role. Required: cover with series lockup, product frame with real output + price, full-bleed number page, follow hook |
+| 4 · Copy | Plain first, then 1–3 jokes from a pattern library (rhetorical-question titles, one-line beats, deadpan, callbacks, contrast endings) |
+| 5 · Build | Real mobile screenshots, pixel-faithful UI mocks (X, Claude, iOS lock screen, Google, Stripe), figures that aren't tables, App Store poster template |
+| 6 · Review | Contact sheet at thumbnail size against a checklist |
+| 7 · Hand-off | Sheet + 2–3 title options. Publishing stays with you |
+
+## Install
+```bash
+git clone https://github.com/jack-reson8/post-skill ~/.claude/skills/post
+```
+Needs Google Chrome (headless rendering) and Python 3 with Pillow for contact sheets.
+
+## Honesty rules built in
+True facts only; dialogue mocks are reconstructions of real conversations; never fake other people's messages, payments, likes or views.
+
+## License
+MIT. UI mocks imitate third-party apps for commentary-style posts; their names and marks belong to their owners.
+
+Made by [@jack-reson8](https://github.com/jack-reson8) · sibling skills: [pro-motion](https://github.com/jack-reson8/pro-motion), [skill-skill](https://github.com/jack-reson8/skill-skill)
