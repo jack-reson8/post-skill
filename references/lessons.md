@@ -7,7 +7,7 @@ Read at step 4 (before building) and step 7 (review). Each line is a past failur
 - Emoji, bullet lists, slogans in the copy → "AI 味".
 - A chat mock that is only roughly like the app → "doesn't look like Claude". Mocks must match the real app (check its App Store screenshots first).
 - Everything mid-size, timid tints → "too 正经 / a bit ugly".
-- Copy that is all facts, no play → "太正经了". Add 1–3 jokes (references/humor.md).
+- Copy that is all facts, no play → "太正经了". But the fix that followed (jokes on every frame, space-separated fragments) → "完全不人话，读起来都不通顺……幽默偶尔有一下就行，不然显得油腻". Right balance: fluent full sentences, at most one joke and one 金句 per set, at most two handwritten asides.
 - A fact that wasn't true ("deleted the tools and restarted") slipped into a headline. Every claim gets checked against the real record.
 
 ## Accepted

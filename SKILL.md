@@ -23,7 +23,7 @@ Table, one row per frame (XHS 7–9, X 1–4): `# | headline (≤2 lines, a numb
 Required rows: a cover with a series lockup and an honest proof line; at least one product frame (what it does + who for + real output + price pill); one full-bleed accent frame with one giant number; a last frame that hooks the follow (streak calendar + tomorrow's task + a specific CTA). Adjacent frames use different evidence types. Figures follow `references/dataviz-forms.md`.
 
 ## 4 · Copy
-Write the headline and captions plainly first, then add 1–3 jokes from `references/humor.md` (rhetorical-question title, one-line beat, naming the phenomenon, deadpan understatement, callback, contrast ending). Every joke sits next to a real number. No emoji, no slogans, no "not X but Y". Re-check every claim against brief.md. Read `references/lessons.md` now.
+Write fluent, complete sentences with normal punctuation first: conclusion first, one logic line per paragraph, read it aloud. Then at most one light joke in the whole set and at most one 金句 (a concrete image that grows out of this story), only if one fits; stacked jokes read as greasy. `references/humor.md` is optional. No emoji, no slogans, no "not X but Y". Re-check every claim against brief.md. Read `references/lessons.md` now.
 
 ## 5 · Build
 - Real screenshots: `scripts/shoot.sh <url> screens/raw/name.png` (set `PROXY=` if needed).
