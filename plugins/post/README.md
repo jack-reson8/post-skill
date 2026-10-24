@@ -1,5 +1,7 @@
 # Post · share images that look native and sell
 
+English | [简体中文](README.zh-CN.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Tiếng Việt](README.vi.md) | [हिन्दी](README.hi.md)
+
 **Give Claude today's facts. Get a Xiaohongshu / X image set that looks like real app screens, reads like a person with jokes, and pushes your product and your series.**
 
 <table><tr>
@@ -10,8 +12,6 @@
 <td><img src="docs/frame-5.jpg" width="170"></td>
 </tr></table>
 <sub>Day 1 of a building-in-public series ("make Claude earn back its own $200 subscription"), made with this skill.</sub>
-
-[中文说明](README.zh-CN.md)
 
 Most AI-made post images fail the same way: gradient cards, emoji lists, a "designed" scene that screams template. This skill came out of 7 rounds of real rejections ("ugly", "looks AI-made", "doesn't look like Claude", "too serious") until the set was accepted. The method that fixed it is what it encodes:
 
@@ -50,6 +50,12 @@ codex plugin add post@post-skill
 ```
 
 Or copy `plugins/post/skills/post` into `~/.codex/skills/`. The skill follows the open [Agent Skills](https://agentskills.io) standard, so it works in Claude Code, Codex and any agent that reads SKILL.md.
+
+**Other agents** (Cursor, Gemini CLI, GitHub Copilot and other agents supported by the skills CLI):
+
+```bash
+npx skills add jack-reson8/post-skill
+```
 
 ## Honesty rules built in
 True facts only; dialogue mocks are reconstructions of real conversations; never fake other people's messages, payments, likes or views.
