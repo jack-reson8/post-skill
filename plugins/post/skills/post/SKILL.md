@@ -1,6 +1,6 @@
 ---
 name: post
-description: Post — make share-post image sets that look native and sell: Xiaohongshu (小红书) carousels, X/Twitter images, covers, building-in-public diaries, product launch posts. App Store screenshot-poster layout (headline + phone + floating card), real screenshots, pixel-faithful app-UI mocks (X, Claude, lock screen, Google, Stripe…), charts that aren't tables, a series/IP layer for go-to-market, and copy with 网感 and small jokes. Use when the user asks for 图文, 图文并茂, 配图, 组图, 封面, 小红书笔记图, 分享帖, 推文配图, carousel, cover image, "make it less AI-looking", "要网感", "太正经了", or wants a post that promotes a product, a note or a personal brand.
+description: "Post — make share-post image sets that look native and sell: Xiaohongshu (小红书) carousels, X/Twitter images, covers, building-in-public diaries, product launch posts. App Store screenshot-poster layout (headline + phone + floating card), real screenshots, pixel-faithful app-UI mocks (X, Claude, lock screen, Google, Stripe…), charts that aren't tables, a series/IP layer for go-to-market, and copy with 网感 and small jokes. Use when the user asks for 图文, 图文并茂, 配图, 组图, 封面, 小红书笔记图, 分享帖, 推文配图, carousel, cover image, \"make it less AI-looking\", \"要网感\", \"太正经了\", or wants a post that promotes a product, a note or a personal brand."
 ---
 
 # Post — share images that look native and sell
