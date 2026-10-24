@@ -3,6 +3,7 @@
 [English](README.md) | [简体中文](README.zh-CN.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Tiếng Việt](README.vi.md) | हिन्दी
 
 <p align="center"><img src="docs/share.png" alt="Post: a day of notes into a native-looking carousel" width="100%"></p>
+<p align="center"><sub><a href="https://github.com/jack-reson8/copy-that"><b>Copy That</b></a> सीरीज़ का हिस्सा · एक लाइन में पूरा सेट इंस्टॉल करें</sub></p>
 
 **Claude को आज के सच्चे तथ्य दीजिए। बदले में पाइए Xiaohongshu (शियाओहोंगशू) / X के लिए इमेज सेट, जो असली ऐप स्क्रीन जैसा दिखता है, मज़ाकिया इंसान की तरह पढ़ा जाता है, और आपके प्रोडक्ट व सीरीज़ दोनों को आगे बढ़ाता है।**
 

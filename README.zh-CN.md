@@ -3,6 +3,7 @@
 [English](README.md) | 简体中文 | [日本語](README.ja.md) | [한국어](README.ko.md) | [Tiếng Việt](README.vi.md) | [हिन्दी](README.hi.md)
 
 <p align="center"><img src="docs/share.png" alt="Post: a day of notes into a native-looking carousel" width="100%"></p>
+<p align="center"><sub>属于 <a href="https://github.com/jack-reson8/copy-that"><b>Copy That</b></a> 系列 · 一行命令装全套</sub></p>
 
 **把今天的真实数据交给 Claude，产出一套小红书 / X 组图：看起来像真 App 截图，读起来像真人在吐槽，同时在推你的产品和你的系列 IP。**
 
