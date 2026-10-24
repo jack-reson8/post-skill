@@ -2,6 +2,8 @@
 
 [English](README.md) | [简体中文](README.zh-CN.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | Tiếng Việt | [हिन्दी](README.hi.md)
 
+<p align="center"><img src="docs/share.png" alt="Post: a day of notes into a native-looking carousel" width="100%"></p>
+
 **Đưa cho Claude những sự thật của hôm nay. Nhận lại bộ ảnh cho Xiaohongshu (Tiểu Hồng Thư) / X trông như màn hình app thật, đọc như một người có duyên kể chuyện, và vừa quảng bá sản phẩm vừa xây series của bạn.**
 
 <table><tr>

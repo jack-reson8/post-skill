@@ -2,6 +2,8 @@
 
 [English](README.md) | [简体中文](README.zh-CN.md) | 日本語 | [한국어](README.ko.md) | [Tiếng Việt](README.vi.md) | [हिन्दी](README.hi.md)
 
+<p align="center"><img src="docs/share.png" alt="Post: a day of notes into a native-looking carousel" width="100%"></p>
+
 **今日の事実を Claude に渡すだけ。本物のアプリ画面のように見え、ユーモアのある人間の語り口で、あなたのプロダクトとシリーズを後押しする、小红书（Xiaohongshu）/ X 向けの画像セットができあがります。**
 
 <table><tr>
