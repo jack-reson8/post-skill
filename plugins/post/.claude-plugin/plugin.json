@@ -1,7 +1,7 @@
 {
   "name": "post",
   "description": "Share-image sets for Xiaohongshu and X: App Store poster layout, real screenshots, faithful app-UI mocks, charts that aren't tables, a series/IP layer for go-to-market, fluent copy.",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "author": { "name": "jack-reson8" },
   "homepage": "https://github.com/jack-reson8/post-skill",
   "license": "MIT",
