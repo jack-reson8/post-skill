@@ -17,3 +17,10 @@ claude plugin install post@post-skill
 git clone https://github.com/jack-reson8/post-skill
 cp -R post-skill/plugins/post/skills/post ~/.claude/skills/
 ```
+
+Codex（CLI 或 ChatGPT 桌面版）：
+```bash
+codex plugin marketplace add jack-reson8/post-skill
+codex plugin add post@post-skill
+```
+也可以把 `plugins/post/skills/post` 复制到 `~/.codex/skills/`。Skill 遵循 [Agent Skills](https://agentskills.io) 开放标准，Claude Code、Codex 以及任何能读取 SKILL.md 的 agent 都能用。

@@ -42,6 +42,15 @@ cp -R post-skill/plugins/post/skills/post ~/.claude/skills/
 ```
 Needs Google Chrome (headless rendering) and Python 3 with Pillow for contact sheets.
 
+**Codex** (CLI or the ChatGPT desktop app):
+
+```bash
+codex plugin marketplace add jack-reson8/post-skill
+codex plugin add post@post-skill
+```
+
+Or copy `plugins/post/skills/post` into `~/.codex/skills/`. The skill follows the open [Agent Skills](https://agentskills.io) standard, so it works in Claude Code, Codex and any agent that reads SKILL.md.
+
 ## Honesty rules built in
 True facts only; dialogue mocks are reconstructions of real conversations; never fake other people's messages, payments, likes or views.
 
