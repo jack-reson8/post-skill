@@ -1,6 +1,6 @@
 # Post · share images that look native and sell
 
-English | [简体中文](README.zh-CN.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Tiếng Việt](README.vi.md) | [हिन्दी](README.hi.md)
+English | [简体中文](https://github.com/jack-reson8/post-skill/blob/main/README.zh-CN.md) | [日本語](https://github.com/jack-reson8/post-skill/blob/main/README.ja.md) | [한국어](https://github.com/jack-reson8/post-skill/blob/main/README.ko.md) | [Tiếng Việt](https://github.com/jack-reson8/post-skill/blob/main/README.vi.md) | [हिन्दी](https://github.com/jack-reson8/post-skill/blob/main/README.hi.md)
 
 **Give Claude today's facts. Get a Xiaohongshu / X image set that looks like real app screens, reads like a person with jokes, and pushes your product and your series.**
 
