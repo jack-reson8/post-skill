@@ -4,6 +4,7 @@
 
 <p align="center"><img src="docs/share.png" alt="Post: a day of notes into a native-looking carousel" width="100%"></p>
 <p align="center"><sub><a href="https://github.com/jack-reson8/copy-that"><b>Copy That</b></a> 시리즈 · 한 줄로 전체 설치</sub></p>
+<p align="center"><a href="https://jack-reson8.github.io/skill-skill/check/"><img src="https://img.shields.io/badge/skill%20health-100%2F100-brightgreen" alt="skill health 100/100"></a></p>
 
 **오늘의 사실만 Claude에게 주세요. 진짜 앱 화면처럼 보이고, 유머 있는 사람 말투로 읽히며, 제품과 시리즈를 함께 밀어 주는 샤오훙수(Xiaohongshu) / X용 이미지 세트가 나옵니다.**
 

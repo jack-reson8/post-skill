@@ -4,6 +4,7 @@ English | [简体中文](README.zh-CN.md) | [日本語](README.ja.md) | [한국�
 
 <p align="center"><img src="docs/share.png" alt="Post: a day of notes into a native-looking carousel" width="100%"></p>
 <p align="center"><sub>Part of <a href="https://github.com/jack-reson8/copy-that"><b>Copy That</b></a> · install the whole set in one line</sub></p>
+<p align="center"><a href="https://jack-reson8.github.io/skill-skill/check/"><img src="https://img.shields.io/badge/skill%20health-100%2F100-brightgreen" alt="skill health 100/100"></a></p>
 
 **Give Claude today's facts. Get a Xiaohongshu / X image set that looks like real app screens, reads like a person with jokes, and pushes your product and your series.**
 

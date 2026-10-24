@@ -4,6 +4,7 @@
 
 <p align="center"><img src="docs/share.png" alt="Post: a day of notes into a native-looking carousel" width="100%"></p>
 <p align="center"><sub><a href="https://github.com/jack-reson8/copy-that"><b>Copy That</b></a> シリーズの一つ · 1 行で全部インストール</sub></p>
+<p align="center"><a href="https://jack-reson8.github.io/skill-skill/check/"><img src="https://img.shields.io/badge/skill%20health-100%2F100-brightgreen" alt="skill health 100/100"></a></p>
 
 **今日の事実を Claude に渡すだけ。本物のアプリ画面のように見え、ユーモアのある人間の語り口で、あなたのプロダクトとシリーズを後押しする、小红书（Xiaohongshu）/ X 向けの画像セットができあがります。**
 

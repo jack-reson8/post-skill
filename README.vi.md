@@ -4,6 +4,7 @@
 
 <p align="center"><img src="docs/share.png" alt="Post: a day of notes into a native-looking carousel" width="100%"></p>
 <p align="center"><sub>Thuộc bộ <a href="https://github.com/jack-reson8/copy-that"><b>Copy That</b></a> · cài cả bộ bằng một lệnh</sub></p>
+<p align="center"><a href="https://jack-reson8.github.io/skill-skill/check/"><img src="https://img.shields.io/badge/skill%20health-100%2F100-brightgreen" alt="skill health 100/100"></a></p>
 
 **Đưa cho Claude những sự thật của hôm nay. Nhận lại bộ ảnh cho Xiaohongshu (Tiểu Hồng Thư) / X trông như màn hình app thật, đọc như một người có duyên kể chuyện, và vừa quảng bá sản phẩm vừa xây series của bạn.**
 
