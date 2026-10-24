@@ -40,6 +40,8 @@
       "Turn these numbers into a chart image for X"
     ],
     "brandColor": "#DB2777",
-    "screenshots": []
+    "screenshots": [],
+    "privacyPolicyURL": "https://github.com/jack-reson8/post-skill/blob/main/PRIVACY.md",
+    "termsOfServiceURL": "https://github.com/jack-reson8/post-skill/blob/main/LICENSE"
   }
 }
